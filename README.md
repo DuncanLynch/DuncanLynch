@@ -2,8 +2,8 @@
 
 Computer Science student focused on backend systems, low-level infrastructure, and performance-critical C++ development.
 
-Research Assistant @ Stevens Institute of Technology's H2 Design Lab
-Course Assistant @ CS-492 (Operating Systems)  
+Research Assistant @ Stevens Institute of Technology's H2 Design Lab <br>
+Course Assistant @ CS-492 (Operating Systems) <br>
 Developer behind [Annoloom](https://researchwith.stevens.edu/en/publications/annoloom-augmenting-codebook-generation-and-annotation-with-large/)
 
 ---
